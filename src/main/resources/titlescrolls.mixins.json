@@ -1,0 +1,13 @@
+{
+  "required": true,
+  "package": "titlescrolls.impl.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "mixins": [
+    "ConditionLootFunctionInvoker",
+    "ItemStackMixin",
+    "SetComponentsLootFunctionInvoker"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+	}
+}

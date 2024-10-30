@@ -1,0 +1,14 @@
+{
+  "item.titlescrolls.base_title_scroll": "Title Scroll",
+  "item.titlescrolls.epic_title_scroll": "Epic Title Scroll",
+  "item.titlescrolls.legendary_title_scroll": "Legendary Title Scroll",
+  "item.titlescrolls.rare_title_scroll": "Rare Title Scroll",
+  "item.titlescrolls.uncommon_title_scroll": "Uncommon Title Scroll",
+  "message.titlescrolls.rename": "  Rename to set title",
+  "text.titlescrolls.ashen.lore": "  Obtained from slaying the Wither.",
+  "text.titlescrolls.dragon_slayer.lore": "  Obtained from slaying the Ender Dragon.",
+  "title.titlescrolls.Empowered": "Empowered",
+  "title.titlescrolls.ashen": "Ashen",
+  "title.titlescrolls.dragon_slayer": "Dragon Slayer",
+  "trinkets.slot.misc.title": "Title"
+}

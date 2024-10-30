@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#": {
+      "item": "minecraft:string"
+    },
+    "p": {
+      "item": "minecraft:paper"
+    }
+  },
+  "pattern": [
+    "#p#",
+    " p "
+  ],
+  "result": {
+    "count": 1,
+    "id": "titlescrolls:base_title_scroll"
+  }
+}
