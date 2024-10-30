@@ -1,14 +1,14 @@
 # Title Scrolls
-This mod is a near rewrite of [TitleScrolls](https://gitlab.com/repulica/title-scrolls) by [repulica](https://gitlab.com/repulica). Some code from the original was modified to suit the rewrite, so it remains under the original licence. All textures are from the original.
-## Discrption
-Title Scrolls adds trinkets which display a title under player names. Common title scrolls can be crafted with two paper and two string, and renamed in an anvil to set the title. All Titles are components based, so adding one is as simple as customizing a give command.
+This mod is a near rewrite of [TitleScrolls](https://gitlab.com/repulica/title-scrolls) by [repulica](https://gitlab.com/repulica). Some code from the original was modified to suit the rewrite, so it remains under the original license. All textures are from the original.
+## Discription
+Title Scrolls adds trinkets that display a title under player names. Common title scrolls can be crafted with two paper and two string and renamed in an anvil to set the title. All Titles are component-based, so adding one is as simple as customizing a give command.
 ## Gameplay Images
 ![A Player renaming a scroll to give it a custom title](imgs/image.png)
 ![A Custom Title Scroll](imgs/image-2.png)
 ![A Player with A Custom Title](imgs/image-3.png)
 ![A Player With a Command Generated Title](imgs/image-4.png)
 ## Modders
-As all titles are component based, adding a title to a mod is as simple as adding a new component to the title scroll item.
+As all titles are component-based, adding a title to a mod is as simple as adding a new component to the title scroll item.
 ```java
 public class Demo implements ModInitializer {
     @Override
